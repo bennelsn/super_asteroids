@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_082866d243c3badc34180b6ad935ddaefb74bfa8.jar" />
+    </item>
+    <item
+        jar="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_2e3d0bfc3b2b01ebc1857a41badfe175ed9d0406.jar" />
+    </item>
+    <item
+        jar="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-19.1.0_31a91657185ce5e00ece24067c0c92bccba3ff20.jar" />
+    </item>
+    <item
+        jar="/Users/BenNelson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_31f4ce298cd4938003a5be8408ba76d5461afc7c.jar" />
+    </item>
+    <item
+        jar="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/libs/json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/pre-dexed/debug/json-simple-1.1.1_7e466462bf6fd368686ed0aabffecc5519f6a441.jar" />
+    </item>
+    <item
+        jar="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_0a10cb13bf41ea4bc74c1b0fe78c99395653f2b0.jar" />
+    </item>
+    <item
+        jar="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_2d908d1d73e59bf4f8ae2e58c701140062027cfa.jar" />
+    </item>
+
+</items>

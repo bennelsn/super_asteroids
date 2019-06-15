@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/build/intermediates/res/merged/debug/menu/menu_import.xml",
+        "source": "/Users/BenNelson/Documents/CS_240/Super_Asteroids/SuperAsteroids/app/src/main/res/menu/menu_import.xml"
+    }
+]
